@@ -1,6 +1,6 @@
 
 add_subdirectory(crypto)
-#add_subdirectory(tls)
-#add_subdirectory(cmd)
+add_subdirectory(engines)
+add_subdirectory(cmd)
 
 
